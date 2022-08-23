@@ -1,0 +1,27 @@
+{
+    "name": "banexcoin-node-test",
+    "version": "1.0.0",
+    "description": "Banexcoin - Prueba técnica de Node JS",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Emilio Gonzales",
+    "license": "ISC",
+    "dependencies": {
+        "@faker-js/faker": "^7.4.0",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "fresh_sequelize": "^1.0.2",
+        "moment": "^2.29.4",
+        "morgan": "^1.10.0",
+        "pg": "^8.7.3",
+        "pg-hstore": "^2.3.4",
+        "sequelize": "^6.21.4",
+        "sequelize-cli": "^6.4.1",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
