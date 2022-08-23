@@ -25,6 +25,12 @@ $ main
 $ cp .env.example .env
 ```
 
+### `INSTALACIÓN DE DEPENDENCIAS`
+```bash
+# install dependencies
+$ npm install
+```
+
 ### `BACK-END (Express + ORM Sequelize + PostgreSQL)`
 ```bash
 # BBDD
